@@ -8,7 +8,6 @@ if they are given to you here.
 Make use of the functions presented in the lectures
 and ensure your code is PEP-8 compliant, including docstrings.
 """
-from corner import corner
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd

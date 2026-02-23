@@ -4,7 +4,7 @@ This is the template file for the statistics and trends assignment.
 You will be expected to complete all the sections and
 make this a fully working, documented file.
 You should NOT change any function, file or variable names,
- if they are given to you here.
+if they are given to you here.
 Make use of the functions presented in the lectures
 and ensure your code is PEP-8 compliant, including docstrings.
 """
